@@ -1,0 +1,9 @@
+#connect {
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+}
+
+#connect:hover {
+    background-color: lightskyblue;
+}
